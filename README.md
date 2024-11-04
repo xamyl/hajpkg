@@ -4,4 +4,5 @@
 Blue and very toothy package manager
 
 [Installation](install.md)
+<br>
 [Use](actuallydothingslol.md)
