@@ -1,2 +1,6 @@
+
+[haj](https://github.com/user-attachments/assets/b15caad3-ca24-4e46-af66-99accd84c95c)
 # hajpkg
-Fake very toothy and blue package manager
+Blue and very toothy package manager
+
+[Installation](install.md)
